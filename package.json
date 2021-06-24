@@ -3,6 +3,12 @@
   "version": "0.1.2",
   "description": "",
   "main": "www/sign-in-with-apple.js",
+  "cordova": {
+    "id": "cordova-plugin-sign-in-with-apple",
+    "platforms": [
+      "ios"
+    ]
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
