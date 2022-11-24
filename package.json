@@ -17,7 +17,7 @@
     "url": "git+https://github.com/ensemblebd/cordova-plugin-sign-in-with-apple-eg.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org"
   },
   "author": "",
   "license": "MIT",
