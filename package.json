@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-sign-in-with-apple-eg",
+  "name": "@ensemblebd/cordova-plugin-sign-in-with-apple-eg",
   "version": "0.1.2",
   "description": "",
   "main": "www/sign-in-with-apple.js",
@@ -15,6 +15,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ensemblebd/cordova-plugin-sign-in-with-apple-eg.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "author": "",
   "license": "MIT",
