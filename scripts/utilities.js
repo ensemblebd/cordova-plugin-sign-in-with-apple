@@ -35,7 +35,7 @@ module.exports = {
      * The ID of the plugin; this should match the ID in plugin.xml.
      */
   getPluginId: function () {
-    return "cordova-plugin-sign-in-with-apple";
+    return "cordova-plugin-sign-in-with-apple-eg";
   },
 
   copyKey: function (platform) {
