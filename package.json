@@ -1,5 +1,5 @@
 {
-  "name": "@ensemblebd/cordova-plugin-sign-in-with-apple-eg",
+  "name": "cordova-plugin-sign-in-with-apple-eg",
   "version": "0.1.2",
   "description": "",
   "main": "www/sign-in-with-apple.js",
